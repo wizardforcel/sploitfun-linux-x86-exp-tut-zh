@@ -4,18 +4,14 @@
 
 > 来源：http://blog.csdn.net/maokelong95/article/details/51989081
 
-本篇文章主要完成了对「[Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/comment-page-1/?blogsub=confirming#subscribe-blog%E3%80%82)」的翻译工作。限于本人翻译水平与专业技术水平（纯粹为了了解内存分配而翻），本文章必定会有很多不足之处，请大家见谅，也欢迎大家的指正！
-联系邮箱：974985526@qq.com。
+> 本篇文章主要完成了对「[Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/comment-page-1/?blogsub=confirming#subscribe-blog%E3%80%82)」的翻译工作。限于本人翻译水平与专业技术水平（纯粹为了了解内存分配而翻），本文章必定会有很多不足之处，请大家见谅，也欢迎大家的指正！
 
-2017/03/17
+> 联系邮箱：974985526@qq.com。
 
-优化排版；
+> 2017/03/17
 
+> 优化排版
 
-
-
-
-# 理解 glibc malloc
 
 堆内存是一个很有意思的领域，这样的问题：
 

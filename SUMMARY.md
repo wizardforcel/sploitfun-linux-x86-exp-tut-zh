@@ -7,5 +7,6 @@
 + [绕过ASLR -- 第一部分](6.md)
 + [绕过ASLR -- 第二部分](7.md)
 + [绕过ASLR -- 第三部分](8.md)
++ [理解 glibc malloc](understanding-glibc-malloc.md)
 + [使用 unlink 的堆溢出](9.md)
 + [使用 Malloc Maleficarum 的堆溢出](10.md)
