@@ -3,7 +3,7 @@
 + [整数溢出](2.md)
 + [Off-By-One 漏洞 (基于栈)](3.md)
 + [使用 return-to-libc 绕过 NX bit](4.md)
-+ [使用 return-to-libc 链接绕过 NX bit](5.md)
++ [使用链式 return-to-libc 绕过 NX bit](5.md)
 + [绕过ASLR -- 第一部分](6.md)
 + [绕过ASLR -- 第二部分](7.md)
 + [绕过ASLR -- 第三部分](8.md)
