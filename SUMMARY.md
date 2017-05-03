@@ -10,3 +10,5 @@
 + [理解 glibc malloc](understanding-glibc-malloc.md)
 + [使用 unlink 的堆溢出](9.md)
 + [使用 Malloc Maleficarum 的堆溢出](10.md)
++ [Off-By-One 漏洞（基于堆）](11.md)
++ [释放后使用](12.md)
